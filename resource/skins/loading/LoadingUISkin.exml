@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingUISkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" />
+    <e:Group id="container" width="916" height="687" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="splash_1x_jpg" />
+        <e:Group x="255" y="587">
+            <e:Image id="loadingBar" source="loading_bar1_png" width="537" scale9Grid="67,8,403,21" />
+            <e:Image id="loadingStatus" width="0" source="loading_bar2_png" x="3" y="3" scale9Grid="28,3,168,24" />
+        </e:Group>
+        <e:Label text="正在努力整理学习资源......" x="266" y="558" textColor="0x4F1509" size="26" />
+    </e:Group>
+</e:Skin>

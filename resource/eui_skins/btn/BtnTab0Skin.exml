@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="BtnTab0Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image visible.disabled="false" source.up="red_dot_png" source="red_dot_png" visible.down="false" />
+</e:Skin>
+

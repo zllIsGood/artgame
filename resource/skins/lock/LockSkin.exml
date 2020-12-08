@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LockSkin" width="1440" height="810" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:ns1="*">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group horizontalCenter="0" verticalCenter="0" width="566" height="426">
+        <e:Image source="lock_bg_png" />
+        <e:Image id="titleImg" y="47" source="lock_title_color_png" horizontalCenter="0" />
+        <e:Group id="grp" horizontalCenter="-1" verticalCenter="4">
+            <e:Image id="lockImg" y="0" x="0" source="lock_img2_png" />
+            <e:Image source="lock_png" right="0" bottom="0" />
+        </e:Group>
+        <ns1:BaseBtn id="lockBtn" icon="lock_video_btn_png" skinName="BaseBtnSkin" y="306" x="142" />
+        <ns1:BaseBtn id="closeBtn" icon="lock_close_png" skinName="BaseBtnSkin" top="-16" right="-16" />
+    </e:Group>
+</e:Skin>

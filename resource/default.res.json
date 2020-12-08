@@ -1,0 +1,165 @@
+{
+	"groups": [
+		{
+			"keys": "game_bg_1x_jpg,menu_bg_1x_jpg,lock_bg_png,lock_close_png,lock_dress_png,lock_img1_png,lock_img2_png,lock_title_color_png,lock_title_dress_png,lock_title_img_png,lock_video_btn_png,lock_png,ct_png,di_png,fz_png,sz_png,szan_png,tj_png,dialog_close_btn_png,app_icon_png",
+			"name": "preload"
+		},
+		{
+			"keys": "splash_1x_jpg,loading_bar1_png,loading_bar2_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/public/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/public/radiobutton_select.png",
+			"type": "image",
+			"name": "radiobutton_select_png"
+		},
+		{
+			"url": "assets/public/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/loading/loading_bar1.png",
+			"type": "image",
+			"name": "loading_bar1_png"
+		},
+		{
+			"url": "assets/loading/loading_bar2.png",
+			"type": "image",
+			"name": "loading_bar2_png"
+		},
+		{
+			"url": "assets/public/scroll.json",
+			"type": "sheet",
+			"name": "scroll_json",
+			"subkeys": "bag_15,bag_16,bag_17,bag_18"
+		},
+		{
+			"url": "assets/texture/static/game_bg_1x.jpg",
+			"type": "image",
+			"name": "game_bg_1x_jpg"
+		},
+		{
+			"url": "assets/texture/static/menu_bg_1x.jpg",
+			"type": "image",
+			"name": "menu_bg_1x_jpg"
+		},
+		{
+			"url": "assets/texture/static/splash_1x.jpg",
+			"type": "image",
+			"name": "splash_1x_jpg"
+		},
+		{
+			"url": "assets/record/record-share.png",
+			"type": "image",
+			"name": "record-share_png"
+		},
+		{
+			"url": "assets/record/record.png",
+			"type": "image",
+			"name": "record_png"
+		},
+		{
+			"url": "assets/record/recording.png",
+			"type": "image",
+			"name": "recording_png"
+		},
+		{
+			"url": "assets/adui/lock.png",
+			"type": "image",
+			"name": "lock_png"
+		},
+		{
+			"url": "assets/adui/lock_bg.png",
+			"type": "image",
+			"name": "lock_bg_png"
+		},
+		{
+			"url": "assets/adui/lock_close.png",
+			"type": "image",
+			"name": "lock_close_png"
+		},
+		{
+			"url": "assets/adui/lock_dress.png",
+			"type": "image",
+			"name": "lock_dress_png"
+		},
+		{
+			"url": "assets/adui/lock_img1.png",
+			"type": "image",
+			"name": "lock_img1_png"
+		},
+		{
+			"url": "assets/adui/lock_title_color.png",
+			"type": "image",
+			"name": "lock_title_color_png"
+		},
+		{
+			"url": "assets/adui/lock_title_dress.png",
+			"type": "image",
+			"name": "lock_title_dress_png"
+		},
+		{
+			"url": "assets/adui/lock_title_img.png",
+			"type": "image",
+			"name": "lock_title_img_png"
+		},
+		{
+			"url": "assets/adui/lock_video_btn.png",
+			"type": "image",
+			"name": "lock_video_btn_png"
+		},
+		{
+			"url": "assets/adui/lock_img2.png",
+			"type": "image",
+			"name": "lock_img2_png"
+		},
+		{
+			"url": "assets/ui/ct.png",
+			"type": "image",
+			"name": "ct_png"
+		},
+		{
+			"url": "assets/ui/di.png",
+			"type": "image",
+			"name": "di_png"
+		},
+		{
+			"url": "assets/ui/fz.png",
+			"type": "image",
+			"name": "fz_png"
+		},
+		{
+			"url": "assets/ui/sz.png",
+			"type": "image",
+			"name": "sz_png"
+		},
+		{
+			"url": "assets/ui/szan.png",
+			"type": "image",
+			"name": "szan_png"
+		},
+		{
+			"url": "assets/ui/tj.png",
+			"type": "image",
+			"name": "tj_png"
+		},
+		{
+			"url": "assets/ui/dialog_close_btn.png",
+			"type": "image",
+			"name": "dialog_close_btn_png"
+		},
+		{
+			"url": "assets/ui/app_icon.png",
+			"type": "image",
+			"name": "app_icon_png"
+		}
+	]
+}

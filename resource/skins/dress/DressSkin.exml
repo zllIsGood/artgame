@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="DressSkin" width="1200" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1000">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="1664" height="768" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="bg" source="game_bg_1x_jpg" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" />
+        <e:Group id="grp" width="670" height="736" x="497" y="16" />
+        <e:Group width="1200" height="687" horizontalCenter="0" verticalCenter="0" touchThrough="true">
+            <ns1:BaseBtn id="leftBtn" skinName="BaseBtnSkin" icon="button_left" x="1080" y="133.33333333333334" />
+            <ns1:BaseBtn id="rightBtn" skinName="BaseBtnSkin" icon="button_right" y="266.6666666666667" x="1080" />
+            <ns1:BaseBtn id="clearBtn" skinName="BaseBtnSkin" icon="button_clear" x="1080" y="0" />
+            <ns1:BaseBtn id="submitBtn" skinName="BaseBtnSkin" icon="button_submit" x="1049" y="400" />
+            <ns1:BaseBtn id="upBtn" skinName="BaseBtnSkin" icon="button_up" x="38" y="-30" />
+            <e:Group id="colorList" width="105" height="525" x="38" y="79.5" touchEnabled="false">
+                <ns1:BaseBtn skinName="BaseBtnSkin" icon="button_paint_bg" miniIcon="button_paint_fill" />
+                <ns1:BaseBtn skinName="BaseBtnSkin" icon="button_paint_bg" miniIcon="button_paint_fill" y="105" />
+                <ns1:BaseBtn skinName="BaseBtnSkin" icon="button_paint_bg" miniIcon="button_paint_fill" y="210" />
+                <ns1:BaseBtn skinName="BaseBtnSkin" icon="button_paint_bg" miniIcon="button_paint_fill" y="315" />
+                <ns1:BaseBtn skinName="BaseBtnSkin" icon="button_paint_bg" miniIcon="button_paint_fill" y="420" />
+            </e:Group>
+            <ns1:BaseBtn id="downBtn" skinName="BaseBtnSkin" icon="button_down" x="38" y="610" />
+        </e:Group>
+    </e:Group>
+</e:Skin>
+

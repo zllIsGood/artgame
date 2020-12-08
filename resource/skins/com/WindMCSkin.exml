@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WindMCSkin" width="337" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="60">
+    <!--<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" />
+    -->
+    <e:Group x="0" y="0">
+        <e:Image id="img0" scaleX="1" scaleY="1" source="wind_00" x="0" y="10" />
+        <e:Image id="img1" scaleX="1" scaleY="1" source="wind_01" x="1" y="31" rotation="-90" />
+        <e:Image id="img2" scaleX="1" scaleY="1" source="wind_02" x="9" y="51" rotation="-90" />
+        <e:Image id="img3" scaleX="1" scaleY="1" y="60" source="wind_03" rotation="-90" x="67" />
+        <e:Image id="img4" scaleX="1" scaleY="1" y="60" source="wind_04" rotation="-90" x="130" />
+        <e:Image id="img5" scaleX="1" scaleY="1" y="43" source="wind_05" rotation="-90" x="231" />
+        <e:Image id="img6" scaleX="1" scaleY="1" x="279" y="29" source="wind_06" rotation="-90" />
+        <e:Image id="img7" scaleX="1" scaleY="1" x="320" y="0" source="wind_07" />
+    </e:Group>
+</e:Skin>

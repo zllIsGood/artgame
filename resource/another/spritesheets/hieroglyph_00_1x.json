@@ -1,0 +1,435 @@
+{
+    "file": "hieroglyph_00_1x.png",
+    "frames": {
+        "border_bottom": {
+            "x": 711,
+            "y": 4,
+            "w": 46,
+            "h": 702,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 46,
+            "sourceH": 702
+        },
+        "border_left": {
+            "x": 785,
+            "y": 4,
+            "w": 13,
+            "h": 408,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 13,
+            "sourceH": 408
+        },
+        "border_right": {
+            "x": 763,
+            "y": 4,
+            "w": 16,
+            "h": 408,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 16,
+            "sourceH": 408
+        },
+        "border_top": {
+            "x": 4,
+            "y": 982,
+            "w": 702,
+            "h": 52,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 702,
+            "sourceH": 52
+        },
+        "button00_icon00": {
+            "x": 712,
+            "y": 982,
+            "w": 101,
+            "h": 58,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 101,
+            "sourceH": 58
+        },
+        "button00_icon01": {
+            "x": 697,
+            "y": 925,
+            "w": 99,
+            "h": 51,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 99,
+            "sourceH": 51
+        },
+        "button00_icon02": {
+            "x": 758,
+            "y": 712,
+            "w": 70,
+            "h": 88,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 70,
+            "sourceH": 88
+        },
+        "button00_icon03": {
+            "x": 758,
+            "y": 806,
+            "w": 73,
+            "h": 86,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 73,
+            "sourceH": 86
+        },
+        "button00_icon04": {
+            "x": 890,
+            "y": 437,
+            "w": 89,
+            "h": 93,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 89,
+            "sourceH": 93
+        },
+        "button00": {
+            "x": 838,
+            "y": 4,
+            "w": 131,
+            "h": 150,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 131,
+            "sourceH": 150
+        },
+        "button01_icon00": {
+            "x": 985,
+            "y": 393,
+            "w": 34,
+            "h": 94,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 34,
+            "sourceH": 94
+        },
+        "button01_icon01": {
+            "x": 881,
+            "y": 595,
+            "w": 80,
+            "h": 85,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 80,
+            "sourceH": 85
+        },
+        "button01_icon02": {
+            "x": 890,
+            "y": 536,
+            "w": 109,
+            "h": 53,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 109,
+            "sourceH": 53
+        },
+        "button01_icon03": {
+            "x": 880,
+            "y": 729,
+            "w": 85,
+            "h": 75,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 85,
+            "sourceH": 75
+        },
+        "button01_icon04": {
+            "x": 967,
+            "y": 595,
+            "w": 42,
+            "h": 95,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 42,
+            "sourceH": 95
+        },
+        "button01": {
+            "x": 838,
+            "y": 160,
+            "w": 126,
+            "h": 151,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 126,
+            "sourceH": 151
+        },
+        "button02_icon00": {
+            "x": 928,
+            "y": 810,
+            "w": 51,
+            "h": 82,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 51,
+            "sourceH": 82
+        },
+        "button02_icon01": {
+            "x": 837,
+            "y": 891,
+            "w": 81,
+            "h": 50,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 81,
+            "sourceH": 50
+        },
+        "button02_icon02": {
+            "x": 927,
+            "y": 898,
+            "w": 71,
+            "h": 72,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 71,
+            "sourceH": 72
+        },
+        "button02_icon03": {
+            "x": 927,
+            "y": 976,
+            "w": 56,
+            "h": 55,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 56,
+            "sourceH": 55
+        },
+        "button02": {
+            "x": 838,
+            "y": 317,
+            "w": 127,
+            "h": 114,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 127,
+            "sourceH": 114
+        },
+        "button03_icon00": {
+            "x": 985,
+            "y": 777,
+            "w": 20,
+            "h": 77,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 20,
+            "sourceH": 77
+        },
+        "button03_icon01": {
+            "x": 971,
+            "y": 310,
+            "w": 48,
+            "h": 77,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 48,
+            "sourceH": 77
+        },
+        "button03_icon02": {
+            "x": 881,
+            "y": 686,
+            "w": 80,
+            "h": 37,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 80,
+            "sourceH": 37
+        },
+        "button03_icon03": {
+            "x": 971,
+            "y": 696,
+            "w": 47,
+            "h": 75,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 47,
+            "sourceH": 75
+        },
+        "button03": {
+            "x": 763,
+            "y": 437,
+            "w": 121,
+            "h": 130,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 130
+        },
+        "button04_border": {
+            "x": 837,
+            "y": 810,
+            "w": 85,
+            "h": 75,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 85,
+            "sourceH": 75
+        },
+        "button04_ramp": {
+            "x": 819,
+            "y": 947,
+            "w": 68,
+            "h": 80,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 68,
+            "sourceH": 80
+        },
+        "button04": {
+            "x": 763,
+            "y": 573,
+            "w": 112,
+            "h": 131,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 112,
+            "sourceH": 131
+        },
+        "layer00_00_00": {
+            "x": 4,
+            "y": 4,
+            "w": 701,
+            "h": 483,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 701,
+            "sourceH": 483
+        },
+        "layer00_01_00": {
+            "x": 4,
+            "y": 493,
+            "w": 687,
+            "h": 483,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 687,
+            "sourceH": 483
+        },
+        "rain_00": {
+            "x": 697,
+            "y": 493,
+            "w": 5,
+            "h": 68,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 5,
+            "sourceH": 68
+        },
+        "rain_01": {
+            "x": 819,
+            "y": 1033,
+            "w": 59,
+            "h": 5,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 59,
+            "sourceH": 5
+        },
+        "rain_02": {
+            "x": 798,
+            "y": 898,
+            "w": 33,
+            "h": 4,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 33,
+            "sourceH": 4
+        },
+        "roll_shadow": {
+            "x": 804,
+            "y": 4,
+            "w": 28,
+            "h": 364,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 28,
+            "sourceH": 364
+        },
+        "wind_00": {
+            "x": 758,
+            "y": 898,
+            "w": 34,
+            "h": 21,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 34,
+            "sourceH": 21
+        },
+        "wind_01": {
+            "x": 893,
+            "y": 947,
+            "w": 28,
+            "h": 79,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 28,
+            "sourceH": 79
+        },
+        "wind_02": {
+            "x": 970,
+            "y": 163,
+            "w": 48,
+            "h": 141,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 48,
+            "sourceH": 141
+        },
+        "wind_03": {
+            "x": 975,
+            "y": 4,
+            "w": 44,
+            "h": 153,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 44,
+            "sourceH": 153
+        },
+        "wind_04": {
+            "x": 697,
+            "y": 712,
+            "w": 55,
+            "h": 207,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 55,
+            "sourceH": 207
+        },
+        "wind_05": {
+            "x": 834,
+            "y": 710,
+            "w": 40,
+            "h": 88,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 40,
+            "sourceH": 88
+        },
+        "wind_06": {
+            "x": 804,
+            "y": 374,
+            "w": 26,
+            "h": 57,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 26,
+            "sourceH": 57
+        },
+        "wind_07": {
+            "x": 985,
+            "y": 493,
+            "w": 16,
+            "h": 15,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 16,
+            "sourceH": 15
+        }
+    }
+}

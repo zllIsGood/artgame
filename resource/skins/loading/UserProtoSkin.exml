@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="UserProtoSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.7" />
+    <e:Group id="grp" width="464" height="510" horizontalCenter="0" verticalCenter="0">
+        <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" scaleX="1" scaleY="1" fillColor="0xffffff"
+                ellipseWidth="10" ellipseHeight="10" />
+        <e:Rect fillAlpha="1" scaleX="1" scaleY="1" fillColor="0xcacaca" width="464" height="1" x="0" y="424" />
+        <e:Rect fillAlpha="1" scaleX="1" scaleY="1" fillColor="0xCACACA" width="1" height="85" y="424" x="232" />
+        <e:Label text="服务协议和隐私政策" y="36" bold="true" size="30" textColor="0x1D1D1D" horizontalCenter="0" />
+        <e:Label id="lab" text="" y="100" width="395" textColor="0x646464" size="24" lineSpacing="12" x="35" />
+        <e:Label text="我同意" x="81" textColor="0x25D1E0" size="24" y="455" />
+        <e:Label text="暂时不用" y="455" textColor="0x646464" size="24" right="81" />
+        <e:Group id="grp0" x="0" y="424" height="85" width="232"></e:Group>
+        <e:Group x="232" y="424" id="grp1" height="85" width="232" />
+    </e:Group>
+</e:Skin>
+

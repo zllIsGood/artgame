@@ -1,0 +1,315 @@
+{
+    "file": "ui_1x.png",
+    "frames": {
+        "arrow": {
+            "x": 1017,
+            "y": 313,
+            "w": 114,
+            "h": 134,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 114,
+            "sourceH": 134
+        },
+        "black2x2": {
+            "x": 120,
+            "y": 506,
+            "w": 1,
+            "h": 1,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 1,
+            "sourceH": 1
+        },
+        "button_clear": {
+            "x": 719,
+            "y": 209,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "button_continue": {
+            "x": 719,
+            "y": 4,
+            "w": 197,
+            "h": 199,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 197,
+            "sourceH": 199
+        },
+        "button_down": {
+            "x": 830,
+            "y": 209,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "button_left": {
+            "x": 941,
+            "y": 202,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "button_paint_bg": {
+            "x": 1052,
+            "y": 202,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "button_paint_fill": {
+            "x": 1137,
+            "y": 424,
+            "w": 82,
+            "h": 82,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 82,
+            "sourceH": 82
+        },
+        "button_play": {
+            "x": 922,
+            "y": 4,
+            "w": 189,
+            "h": 192,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 189,
+            "sourceH": 192
+        },
+        "button_replay_vo": {
+            "x": 1117,
+            "y": 115,
+            "w": 92,
+            "h": 81,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 92,
+            "sourceH": 81
+        },
+        "button_restart": {
+            "x": 877,
+            "y": 320,
+            "w": 134,
+            "h": 140,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 134,
+            "sourceH": 140
+        },
+        "button_right": {
+            "x": 1117,
+            "y": 4,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "button_submit": {
+            "x": 735,
+            "y": 320,
+            "w": 136,
+            "h": 141,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 136,
+            "sourceH": 141
+        },
+        "button_swap": {
+            "x": 588,
+            "y": 328,
+            "w": 141,
+            "h": 151,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 141,
+            "sourceH": 151
+        },
+        "button_up": {
+            "x": 1137,
+            "y": 313,
+            "w": 105,
+            "h": 105,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 105,
+            "sourceH": 105
+        },
+        "checkmark": {
+            "x": 4,
+            "y": 444,
+            "w": 65,
+            "h": 58,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 65,
+            "sourceH": 58
+        },
+        "empty_pixel": {
+            "x": 127,
+            "y": 506,
+            "w": 1,
+            "h": 1,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 1,
+            "sourceH": 1
+        },
+        "fact_info_bg": {
+            "x": 439,
+            "y": 4,
+            "w": 274,
+            "h": 318,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 274,
+            "sourceH": 318
+        },
+        "keyboard_focus": {
+            "x": 244,
+            "y": 444,
+            "w": 41,
+            "h": 42,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 41,
+            "sourceH": 42
+        },
+        "onboarding_arrow": {
+            "x": 439,
+            "y": 328,
+            "w": 143,
+            "h": 153,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 143,
+            "sourceH": 153
+        },
+        "onboarding_zoom": {
+            "x": 4,
+            "y": 4,
+            "w": 429,
+            "h": 434,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 429,
+            "sourceH": 434
+        },
+        "spinner_00": {
+            "x": 291,
+            "y": 444,
+            "w": 32,
+            "h": 40,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 32,
+            "sourceH": 40
+        },
+        "spinner_01": {
+            "x": 75,
+            "y": 444,
+            "w": 39,
+            "h": 58,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 39,
+            "sourceH": 58
+        },
+        "spinner_02": {
+            "x": 211,
+            "y": 444,
+            "w": 27,
+            "h": 50,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 27,
+            "sourceH": 50
+        },
+        "spinner_03": {
+            "x": 120,
+            "y": 444,
+            "w": 52,
+            "h": 56,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 52,
+            "sourceH": 56
+        },
+        "spinner_04": {
+            "x": 178,
+            "y": 444,
+            "w": 27,
+            "h": 56,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 27,
+            "sourceH": 56
+        },
+        "spinner_05": {
+            "x": 329,
+            "y": 444,
+            "w": 21,
+            "h": 30,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 21,
+            "sourceH": 30
+        },
+        "spinner_06": {
+            "x": 329,
+            "y": 480,
+            "w": 23,
+            "h": 24,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 23,
+            "sourceH": 24
+        },
+        "spinner_07": {
+            "x": 268,
+            "y": 492,
+            "w": 17,
+            "h": 11,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 17,
+            "sourceH": 11
+        },
+        "spinner_08": {
+            "x": 291,
+            "y": 490,
+            "w": 21,
+            "h": 18,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 21,
+            "sourceH": 18
+        },
+        "spinner_09": {
+            "x": 244,
+            "y": 492,
+            "w": 18,
+            "h": 11,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 18,
+            "sourceH": 11
+        }
+    }
+}

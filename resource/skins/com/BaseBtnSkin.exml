@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="BaseBtnSkin" states="up,down,disabled" currentState="up" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+    <e:Group horizontalCenter="0" verticalCenter="0">
+        <e:Image horizontalCenter="0" verticalCenter="0" id="iconDisplay" scaleX.down="0.95" scaleY.down="0.95" />
+        <e:Label id="labelDisplay" size="26" verticalAlign="middle" textAlign="center" touchEnabled="false" text=""
+                 verticalCenter="0" horizontalCenter="0" textColor="0xffb31f" />
+        <e:Image id="miniIconObj" horizontalCenter="0" verticalCenter="0" source="{miniIcon}" scaleX="{miniScale}"
+                 scaleY="{miniScale}" />
+    </e:Group>
+</e:Skin>
+

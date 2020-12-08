@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HomeSkin" width="1440" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="810">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" />
+    <!--<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    -->
+    <e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="menu_bg_1x_jpg" />
+    <e:Group id="mainGrp" width="1000" height="760" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="andy" x="700" scaleX="1" scaleY="1" source="menu_andy" bottom="-4" />
+        <e:Group id="hieroglyphGrp" x="32" y="125">
+            <e:Image id="hieroglyph" x="0" y="0" scaleX="1" scaleY="1" source="menu_button_hieroglyph_bw" />
+            <e:Group id="hieroglyphMap" horizontalCenter="0" height="499" width="702" scaleX="0.4" scaleY="0.4"
+                     verticalCenter="0" visible="false">
+                <e:Image id="lay0" source="layer00_01_00" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" />
+                <e:Group id="lay1" x="0" y="0" />
+                <e:Group id="lay2" />
+                <e:Group id="map" y="0" x="0" width="702" height="490" />
+                <e:Image id="layBg" scaleX="1" scaleY="1" source="bg" alpha="0" left="0" right="0" top="0" bottom="0" />
+                <e:Group horizontalCenter="0" verticalCenter="0">
+                    <e:Image x="0" source="border_bottom" rotation="-90" y="498" />
+                    <e:Image source="border_top" x="0" y="0" />
+                    <e:Image y="48" source="border_right" x="686" />
+                    <e:Image source="border_left" x="0" y="48" />
+                </e:Group>
+            </e:Group>
+        </e:Group>
+        <e:Group id="dressGrp" x="100" y="720">
+            <e:Image id="dress" x="0" y="0" scaleX="1" scaleY="1" source="menu_button_dress_bw" rotation="-90" />
+            <e:Group id="dressMap" x="-60" y="-284" scaleX="0.4" scaleY="0.4" />
+        </e:Group>
+        <e:Group id="quiltGrp" x="359" y="32" scaleX="0.6" scaleY="0.6">
+            <e:Group x="0" y="0">
+                <e:Image x="0" source="menu_button_quilt_bw" scaleX="1.7" scaleY="1.7" />
+            </e:Group>
+            <e:Group id="quiltItemGrp" x="15.5" y="12" width="605" height="605" />
+        </e:Group>
+        <e:Group id="dollGrp" x="360" y="500">
+            <e:Image id="doll" x="0" y="0" scaleX="1" scaleY="1" source="menu_button_dolls_bw" />
+            <e:Group id="dollMap" x="0" y="0" />
+        </e:Group>
+        <e:Group id="maskGrp" scaleX="0.3" scaleY="0.3" horizontalCenter="380.5" verticalCenter="-139.5">
+            <e:Image id="maskBtn" x="0" y="0" source="mask00_outline" />
+        </e:Group>
+    </e:Group>
+    <ns1:BaseBtn id="setBtn" icon="szan_png" skinName="BaseBtnSkin" right="65" top="30" />
+</e:Skin>
+

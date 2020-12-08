@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SuggestSkin" width="1440" height="810" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group horizontalCenter="0" verticalCenter="0" width="566" height="520">
+        <e:Image source="lock_bg_png" scale9Grid="70,401,426,5" height="520" />
+        <e:Image y="30" horizontalCenter="0" source="sz_png" />
+        <e:Image y="138" horizontalCenter="0" source="di_png" width="469" />
+        <e:EditableText id="editLab" height="220" text="" y="155" width="440" horizontalCenter="0"
+                        promptColor="0x74797b" prompt="反馈给我们" textColor="0x2F393C" size="25" />
+        <ns1:BaseBtn id="btn" label="" skinName="BaseBtnSkin" icon="tj_png" y="400" horizontalCenter="0" />
+        <ns1:BaseBtn id="closeBtn" icon="lock_close_png" skinName="BaseBtnSkin" top="-16" right="-16" />
+    </e:Group>
+</e:Skin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CheckBox1" states="up,down,disabled" currentState="up" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="checkbox_unselect_png" horizontalCenter="0" verticalCenter="0" />
+    <e:Image width="20" height="20" verticalCenter="0" visible.up="false" source="character_item_show_png"
+             horizontalCenter="0" />
+    <e:Label id="labelDisplay" size="18" textAlign="left" verticalAlign="middle" textAlign.up="left" x.up="50"
+             verticalCenter="0" left="31" text="" textColor="0x00ff00" />
+</e:Skin>

@@ -1,0 +1,41 @@
+{
+  "engineVersion": "5.2.33",
+  "compilerVersion": "5.2.33",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "gesture",
+      "path": "../../egret-game-library/gesture/libsrc"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "artgame",
+      "packagename": "com.artgame"
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+    "file": "quilt_00_1x.png",
+    "frames": {
+        "basic_0_00": {
+            "x": 4,
+            "y": 4,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_01": {
+            "x": 4,
+            "y": 228,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_02": {
+            "x": 228,
+            "y": 4,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_03": {
+            "x": 4,
+            "y": 452,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_04": {
+            "x": 228,
+            "y": 228,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_05": {
+            "x": 452,
+            "y": 4,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_06": {
+            "x": 452,
+            "y": 228,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_07": {
+            "x": 4,
+            "y": 676,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_08": {
+            "x": 228,
+            "y": 452,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "basic_0_09": {
+            "x": 452,
+            "y": 452,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "stitch_00": {
+            "x": 900,
+            "y": 464,
+            "w": 7,
+            "h": 30,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 7,
+            "sourceH": 30
+        },
+        "stitch_01": {
+            "x": 913,
+            "y": 464,
+            "w": 8,
+            "h": 25,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 8,
+            "sourceH": 25
+        },
+        "stitch_02": {
+            "x": 4,
+            "y": 900,
+            "w": 20,
+            "h": 6,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 20,
+            "sourceH": 6
+        },
+        "unique_0_00": {
+            "x": 676,
+            "y": 4,
+            "w": 327,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 327,
+            "sourceH": 109
+        },
+        "unique_0_01": {
+            "x": 676,
+            "y": 119,
+            "w": 327,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 327,
+            "sourceH": 109
+        },
+        "unique_0_02": {
+            "x": 676,
+            "y": 234,
+            "w": 327,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 327,
+            "sourceH": 109
+        },
+        "unique_0_03": {
+            "x": 676,
+            "y": 349,
+            "w": 327,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 327,
+            "sourceH": 109
+        },
+        "unique_0_04": {
+            "x": 228,
+            "y": 676,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "unique_0_05": {
+            "x": 452,
+            "y": 676,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "unique_0_06": {
+            "x": 676,
+            "y": 464,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        },
+        "unique_0_07": {
+            "x": 676,
+            "y": 688,
+            "w": 218,
+            "h": 218,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 218,
+            "sourceH": 218
+        }
+    }
+}

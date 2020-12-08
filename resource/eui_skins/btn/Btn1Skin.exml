@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Btn1Skin" states="up,down,disabled" currentState="up" xmlns:e="http://ns.egret.com/eui" width="120"
+        height="45">
+	<e:Image horizontalCenter.up="0" verticalCenter.up="0" width.up="120" height.up="45" x.disabled="0" x.up="0"
+	         y.disabled="0" y.up="0" verticalCenter.down="0" horizontalCenter.down="0" horizontalCenter="0"
+	         verticalCenter="0" visible.down="false" source="added_glossary_btn_png" visible.disabled="false" />
+	<e:Label id="labelDisplay" size="20" height="25" text="" verticalCenter.up="0" left.up="0" right.up="0"
+	         textColor.disabled="0x8c8c8c" textColor="0xfaf1ca" size.up="18" textColor.up="0xffffff" size.down="18"
+	         textColor.down="0xffffff" verticalAlign="middle" verticalCenter="0" left="0" right="0" textAlign="center" />
+</e:Skin>
+

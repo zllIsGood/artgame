@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="QuiltSkin" width="1200" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1000">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Image id="bg" source="game_bg_1x_jpg" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" />
+    <e:Group width="1200" height="687" horizontalCenter="0" verticalCenter="0">
+        <ns1:BaseBtn id="leftBtn" skinName="BaseBtnSkin" icon="button_left" x="1080" y="133.33333333333334" />
+        <ns1:BaseBtn id="rightBtn" skinName="BaseBtnSkin" icon="button_right" y="266.6666666666667" x="1080" />
+        <ns1:BaseBtn id="clearBtn" skinName="BaseBtnSkin" icon="button_clear" x="1080" y="0" />
+        <ns1:BaseBtn id="submitBtn" skinName="BaseBtnSkin" icon="button_submit" x="1049" y="400" />
+        <ns1:BaseBtn id="circleBtn" skinName="BaseBtnSkin" icon="button_swap" x="38" y="550" />
+        <e:Group x="282" y="23">
+            <e:Image x="0" source="menu_button_quilt_bw" scaleX="1.7" scaleY="1.7" />
+        </e:Group>
+        <e:Group id="itemGrp" x="297.5" y="35" width="605" height="605">
+            <!--<ns1:QuiltItem skinName="QuiltItemSkin" x="0" y="0" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="121" y="0" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="242" y="0" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="363" y="0" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="484" y="0" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="0" y="121" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="0" y="242" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="0" y="363" />
+            <ns1:QuiltItem skinName="QuiltItemSkin" x="0" y="484" />
+            -->
+        </e:Group>
+        <ns1:QuiltItem id="item0" skinName="QuiltItemSkin" scaleX="0.6" scaleY="0.6" verticalCenter="-258"
+                       horizontalCenter="-475.5" />
+        <ns1:QuiltItem id="item1" skinName="QuiltItemSkin" scaleX="0.6" scaleY="0.6" verticalCenter="-88"
+                       horizontalCenter="-475.5" />
+        <ns1:QuiltItem id="item2" skinName="QuiltItemSkin" scaleX="0.6" scaleY="0.6" verticalCenter="82"
+                       horizontalCenter="-475.5" />
+        <!--<e:Image x="298" y="35" scaleX="1.104" scaleY="1.104" source="unique_0_06" />
+        -->
+    </e:Group>
+</e:Skin>
+

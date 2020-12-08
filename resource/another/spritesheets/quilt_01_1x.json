@@ -1,0 +1,385 @@
+{
+    "file": "quilt_01_1x.png",
+    "frames": {
+        "basic_1_00_decal": {
+            "x": 76,
+            "y": 1633,
+            "w": 112,
+            "h": 99,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 112,
+            "sourceH": 99
+        },
+        "basic_1_00": {
+            "x": 4,
+            "y": 4,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_01_decal": {
+            "x": 76,
+            "y": 1738,
+            "w": 111,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 111,
+            "sourceH": 109
+        },
+        "basic_1_01": {
+            "x": 131,
+            "y": 4,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_02_decal": {
+            "x": 4,
+            "y": 131,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_02": {
+            "x": 131,
+            "y": 131,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_03_decal": {
+            "x": 4,
+            "y": 258,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_03": {
+            "x": 131,
+            "y": 258,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_04_decal": {
+            "x": 4,
+            "y": 385,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_04": {
+            "x": 131,
+            "y": 385,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_05_decal": {
+            "x": 194,
+            "y": 1633,
+            "w": 56,
+            "h": 61,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 56,
+            "sourceH": 61
+        },
+        "basic_1_05": {
+            "x": 4,
+            "y": 512,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_06_decal": {
+            "x": 76,
+            "y": 1853,
+            "w": 111,
+            "h": 109,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 111,
+            "sourceH": 109
+        },
+        "basic_1_06": {
+            "x": 131,
+            "y": 512,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_07_decal": {
+            "x": 4,
+            "y": 639,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_07": {
+            "x": 131,
+            "y": 639,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_08_decal": {
+            "x": 4,
+            "y": 2035,
+            "w": 3,
+            "h": 3,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 3,
+            "sourceH": 3
+        },
+        "basic_1_08": {
+            "x": 4,
+            "y": 766,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_09_decal": {
+            "x": 131,
+            "y": 766,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_09": {
+            "x": 4,
+            "y": 893,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_10_decal": {
+            "x": 76,
+            "y": 1401,
+            "w": 121,
+            "h": 116,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 116
+        },
+        "basic_1_10": {
+            "x": 131,
+            "y": 893,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_11_decal": {
+            "x": 76,
+            "y": 1523,
+            "w": 121,
+            "h": 104,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 104
+        },
+        "basic_1_11": {
+            "x": 4,
+            "y": 1020,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_12_decal": {
+            "x": 131,
+            "y": 1020,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_12": {
+            "x": 4,
+            "y": 1147,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_13_decal": {
+            "x": 131,
+            "y": 1147,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_13": {
+            "x": 4,
+            "y": 1274,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "basic_1_14_decal": {
+            "x": 4,
+            "y": 2035,
+            "w": 3,
+            "h": 3,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 3,
+            "sourceH": 3
+        },
+        "basic_1_14": {
+            "x": 131,
+            "y": 1274,
+            "w": 121,
+            "h": 121,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 121,
+            "sourceH": 121
+        },
+        "bg_bottom": {
+            "x": 40,
+            "y": 1401,
+            "w": 12,
+            "h": 604,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 12,
+            "sourceH": 604
+        },
+        "bg_center": {
+            "x": 20,
+            "y": 2035,
+            "w": 1,
+            "h": 1,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 1,
+            "sourceH": 1
+        },
+        "bg_left": {
+            "x": 22,
+            "y": 1401,
+            "w": 12,
+            "h": 627,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 12,
+            "sourceH": 627
+        },
+        "bg_right": {
+            "x": 4,
+            "y": 1401,
+            "w": 12,
+            "h": 628,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 12,
+            "sourceH": 628
+        },
+        "bg_top": {
+            "x": 58,
+            "y": 1401,
+            "w": 12,
+            "h": 604,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 12,
+            "sourceH": 604
+        },
+        "border": {
+            "x": 13,
+            "y": 2035,
+            "w": 1,
+            "h": 3,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 1,
+            "sourceH": 3
+        },
+        "empty_00": {
+            "x": 76,
+            "y": 1968,
+            "w": 73,
+            "h": 73,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 73,
+            "sourceH": 73
+        },
+        "empty_01": {
+            "x": 155,
+            "y": 1968,
+            "w": 72,
+            "h": 73,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 72,
+            "sourceH": 73
+        }
+    }
+}

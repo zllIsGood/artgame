@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NavigationSkin" width="1440" height="810" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Group left="30" verticalCenter="-120">
+        <e:Image id="recordBtn" y="140" source="record_png" />
+        <e:Image id="recordingBtn" y="140" source="recording_png" />
+        <e:Image id="recordShareBtn" y="280" source="record-share_png" />
+    </e:Group>
+</e:Skin>

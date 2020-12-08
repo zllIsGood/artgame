@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HieroglyphSkin" width="1200" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1000">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Image id="bg" source="game_bg_1x_jpg" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" />
+    <e:Group width="1200" height="687" horizontalCenter="0" verticalCenter="0">
+        <ns1:BaseBtn id="btn0" skinName="BaseBtnSkin" icon="button00" x="189" y="558" miniIcon="button00_icon00" />
+        <ns1:BaseBtn id="btn1" skinName="BaseBtnSkin" icon="button01" x="342" y="557" miniIcon="button01_icon00" />
+        <ns1:BaseBtn id="btn2" skinName="BaseBtnSkin" icon="button02" x="495" y="576" miniIcon="button02_icon00" />
+        <ns1:BaseBtn id="btn3" skinName="BaseBtnSkin" icon="button03" x="647" y="568" miniIcon="button03_icon00" />
+        <ns1:ComBtn id="btn4" skinName="ComBtnSkin" icon="button04" x="800" y="567" miniIcon="button04_ramp"
+                    miniIcon2="button04_border" />
+        <ns1:BaseBtn id="submitBtn" skinName="BaseBtnSkin" icon="button_submit" x="1000" y="300" />
+    </e:Group>
+    <e:Group id="grp" horizontalCenter="0" verticalCenter="-80" height="499" width="702">
+        <e:Image id="lay0" source="layer00_01_00" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" />
+        <e:Group id="lay1" x="0" y="0">
+            <!--<e:Image scaleX="1" scaleY="1" source="layer01_00_00" x="100" y="500" rotation="-90" />
+            -->
+        </e:Group>
+        <e:Group id="lay2">
+            <!--<e:Image scaleX="1" scaleY="1" source="layer02_00_00_outline" x="100" y="100" />
+            -->
+        </e:Group>
+        <e:Group id="map" y="0" x="0" width="702" height="490"></e:Group>
+        <e:Image id="layBg" scaleX="1" scaleY="1" source="bg" alpha="0" left="0" right="0" top="0" bottom="0" />
+        <e:Group horizontalCenter="0" verticalCenter="0">
+            <e:Image x="0" source="border_bottom" rotation="-90" y="498" />
+            <e:Image source="border_top" x="0" y="0" />
+            <e:Image y="48" source="border_right" x="686" />
+            <e:Image source="border_left" x="0" y="48" />
+        </e:Group>
+    </e:Group>
+</e:Skin>
+

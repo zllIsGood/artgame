@@ -1,0 +1,124 @@
+{
+	"groups": [
+		{
+			"keys": "doll_00_1x_json,doll_01_1x_json,door_sequence_1x_json,dress_00_1x_json,dress_01_1x_json,hieroglyph_00_1x_json,hieroglyph_01_1x_json,hieroglyph_02_1x_json,hieroglyph_03_1x_json,mask_00_1x_json,mask_01_1x_json,mask_02_1x_json,mask_03_1x_json,mask_04_1x_json,mask_05_1x_json,menu_1x_json,quilt_00_1x_json,quilt_01_1x_json,ui_1x_json",
+			"name": "main"
+		}
+	],
+	"resources": [
+		{
+			"url": "another/spritesheets/doll_00_1x.json",
+			"type": "sheet",
+			"name": "doll_00_1x_json",
+			"subkeys": "doll0_bot_00,doll0_bot_01,doll0_bot_02,doll0_bot_03,doll0_bot_04,doll0_bot_05,doll0_bot_06,doll0_bot_07,doll0_bot_08,doll0_bot_09,doll0_bot_10,doll0_bot_11,doll0_bot_inside,doll0_bot_outline,doll0_bot_small0,doll0_bot_small1,doll0_bot_small2,doll0_bot_small3,doll0_top_00,doll0_top_01,doll0_top_02,doll0_top_03,doll0_top_04,doll0_top_05,doll0_top_06,doll0_top_07,doll0_top_08,doll0_top_09,doll0_top_10,doll0_top_11,doll0_top_outline,doll0_top_small0,doll0_top_small1,doll0_top_small2,doll0_top_small3"
+		},
+		{
+			"url": "another/spritesheets/dress_01_1x.json",
+			"type": "sheet",
+			"name": "dress_01_1x_json",
+			"subkeys": "dress1_00,dress1_01,dress1_02,dress1_03,dress1_04,dress1_05,dress1_06,dress1_07,dress1_outline"
+		},
+		{
+			"url": "another/spritesheets/doll_01_1x.json",
+			"type": "sheet",
+			"name": "doll_01_1x_json",
+			"subkeys": "doll1_bot_00,doll1_bot_01,doll1_bot_02,doll1_bot_03,doll1_bot_04,doll1_bot_05,doll1_bot_06,doll1_bot_07,doll1_bot_08,doll1_bot_09,doll1_bot_inside,doll1_bot_outline,doll1_bot_small0,doll1_bot_small1,doll1_bot_small2,doll1_bot_small3,doll1_top_00,doll1_top_01,doll1_top_02,doll1_top_03,doll1_top_04,doll1_top_05,doll1_top_06,doll1_top_07,doll1_top_08,doll1_top_09,doll1_top_outline,doll1_top_small0,doll1_top_small1,doll1_top_small2,doll1_top_small3"
+		},
+		{
+			"url": "another/spritesheets/dress_00_1x.json",
+			"type": "sheet",
+			"name": "dress_00_1x_json",
+			"subkeys": "dress0_00,dress0_01,dress0_02,dress0_03,dress0_04,dress0_05,dress0_06,dress0_07,dress0_outline"
+		},
+		{
+			"url": "another/spritesheets/door_sequence_1x.json",
+			"type": "sheet",
+			"name": "door_sequence_1x_json",
+			"subkeys": "trailer_door_frame0000,trailer_door_frame0001,trailer_door_frame0002"
+		},
+		{
+			"url": "another/spritesheets/hieroglyph_02_1x.json",
+			"type": "sheet",
+			"name": "hieroglyph_02_1x_json",
+			"subkeys": "bg,layer01_00_00,layer01_00_01,layer01_00_02,layer01_01_00,layer01_02_00,layer01_02_01,layer01_03_00,layer01_03_01,layer01_04_00,layer01_04_01,layer01_04_02,texture_overlay"
+		},
+		{
+			"url": "another/spritesheets/hieroglyph_03_1x.json",
+			"type": "sheet",
+			"name": "hieroglyph_03_1x_json",
+			"subkeys": "layer02_00_00,layer02_00_00_outline,layer02_01_00,layer02_01_00_outline,layer02_01_01,layer02_01_01_outline,layer02_02_00,layer02_02_00_outline,layer02_02_01,layer02_02_01_outline,layer02_03_00,layer02_03_00_outline,layer02_04_00,layer02_04_00_outline,layer02_04_01,layer02_04_01_outline,night_overlay"
+		},
+		{
+			"url": "another/spritesheets/mask_02_1x.json",
+			"type": "sheet",
+			"name": "mask_02_1x_json",
+			"subkeys": "mask02_00,mask02_01,mask02_02,mask02_03,mask02_04,mask02_05,mask02_06,mask02_07,mask02_08,mask02_09,mask02_10,mask02_11,mask02_outline"
+		},
+		{
+			"url": "another/spritesheets/hieroglyph_01_1x.json",
+			"type": "sheet",
+			"name": "hieroglyph_01_1x_json",
+			"subkeys": "layer00_02_00,layer00_03_00"
+		},
+		{
+			"url": "another/spritesheets/mask_01_1x.json",
+			"type": "sheet",
+			"name": "mask_01_1x_json",
+			"subkeys": "mask01_00,mask01_01,mask01_02,mask01_03,mask01_04,mask01_05,mask01_06,mask01_07,mask01_08,mask01_09,mask01_10,mask01_11,mask01_12,mask01_13,mask01_14,mask01_15,mask01_16,mask01_17,mask01_outline"
+		},
+		{
+			"url": "another/spritesheets/mask_00_1x.json",
+			"type": "sheet",
+			"name": "mask_00_1x_json",
+			"subkeys": "mask00_00,mask00_01,mask00_02,mask00_03,mask00_04,mask00_05,mask00_06,mask00_07,mask00_08,mask00_09,mask00_10,mask00_11,mask00_12,mask00_13,mask00_14,mask00_outline"
+		},
+		{
+			"url": "another/spritesheets/mask_03_1x.json",
+			"type": "sheet",
+			"name": "mask_03_1x_json",
+			"subkeys": "mask03_00,mask03_01,mask03_02,mask03_03,mask03_04,mask03_05,mask03_06,mask03_07,mask03_08,mask03_outline"
+		},
+		{
+			"url": "another/spritesheets/mask_04_1x.json",
+			"type": "sheet",
+			"name": "mask_04_1x_json",
+			"subkeys": "mask04_00,mask04_01,mask04_02,mask04_03,mask04_04,mask04_05,mask04_06,mask04_07,mask04_08,mask04_09,mask04_10,mask04_11,mask04_outline"
+		},
+		{
+			"url": "another/spritesheets/mask_05_1x.json",
+			"type": "sheet",
+			"name": "mask_05_1x_json",
+			"subkeys": "mask05_00,mask05_01,mask05_02,mask05_03,mask05_04,mask05_05,mask05_06,mask05_07,mask05_08,mask05_09,mask05_10,mask05_11,mask05_12,mask05_13,mask05_outline"
+		},
+		{
+			"url": "another/spritesheets/menu_1x.json",
+			"type": "sheet",
+			"name": "menu_1x_json",
+			"subkeys": "menu_andy,menu_button_dolls_bw,menu_button_dress_bw,menu_button_hieroglyph,menu_button_hieroglyph_bw,menu_button_quilt_bw,menu_mask_nail,menu_mask_string"
+		},
+		{
+			"url": "another/spritesheets/quilt_01_1x.json",
+			"type": "sheet",
+			"name": "quilt_01_1x_json",
+			"subkeys": "basic_1_00,basic_1_00_decal,basic_1_01,basic_1_01_decal,basic_1_02,basic_1_02_decal,basic_1_03,basic_1_03_decal,basic_1_04,basic_1_04_decal,basic_1_05,basic_1_05_decal,basic_1_06,basic_1_06_decal,basic_1_07,basic_1_07_decal,basic_1_08,basic_1_08_decal,basic_1_09,basic_1_09_decal,basic_1_10,basic_1_10_decal,basic_1_11,basic_1_11_decal,basic_1_12,basic_1_12_decal,basic_1_13,basic_1_13_decal,basic_1_14,basic_1_14_decal,bg_bottom,bg_center,bg_left,bg_right,bg_top,border,empty_00,empty_01"
+		},
+		{
+			"url": "another/spritesheets/ui_1x.json",
+			"type": "sheet",
+			"name": "ui_1x_json",
+			"subkeys": "arrow,black2x2,button_clear,button_continue,button_down,button_left,button_paint_bg,button_paint_fill,button_play,button_replay_vo,button_restart,button_right,button_submit,button_swap,button_up,checkmark,empty_pixel,fact_info_bg,keyboard_focus,onboarding_arrow,onboarding_zoom,spinner_00,spinner_01,spinner_02,spinner_03,spinner_04,spinner_05,spinner_06,spinner_07,spinner_08,spinner_09"
+		},
+		{
+			"url": "another/spritesheets/quilt_00_1x.json",
+			"type": "sheet",
+			"name": "quilt_00_1x_json",
+			"subkeys": "basic_0_00,basic_0_01,basic_0_02,basic_0_03,basic_0_04,basic_0_05,basic_0_06,basic_0_07,basic_0_08,basic_0_09,stitch_00,stitch_01,stitch_02,unique_0_00,unique_0_01,unique_0_02,unique_0_03,unique_0_04,unique_0_05,unique_0_06,unique_0_07"
+		},
+		{
+			"url": "another/spritesheets/hieroglyph_00_1x.json",
+			"type": "sheet",
+			"name": "hieroglyph_00_1x_json",
+			"subkeys": "border_bottom,border_left,border_right,border_top,button00,button00_icon00,button00_icon01,button00_icon02,button00_icon03,button00_icon04,button01,button01_icon00,button01_icon01,button01_icon02,button01_icon03,button01_icon04,button02,button02_icon00,button02_icon01,button02_icon02,button02_icon03,button03,button03_icon00,button03_icon01,button03_icon02,button03_icon03,button04,button04_border,button04_ramp,layer00_00_00,layer00_01_00,rain_00,rain_01,rain_02,roll_shadow,wind_00,wind_01,wind_02,wind_03,wind_04,wind_05,wind_06,wind_07"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<e:Skin class="bar0Skin" minWidth="30" minHeight="12" xmlns:e="http://ns.egret.com/eui" height="8">
+
+
+	<e:Image id="thumb" left="0" right="0" top="0" bottom="0" source="main_bar_exp" scale9Grid="36,2,10,3"/>
+
+
+	<e:Label id="labelDisplay" textAlign="center" verticalAlign="middle" text="10/10"
+	         size="14" strokeColor="0x000000" 
+	         horizontalCenter="0.5" verticalCenter="-2" textColor="0xffffff"/>
+
+
+</e:Skin>
+

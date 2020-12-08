@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="TipItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Rect fillAlpha="0.8" left="0" right="0" top="0" bottom="0" />
+    <e:Label id="lab" text="Label" size="30" bottom="5" top="5" left="10" right="10" />
+</e:Skin>
+
